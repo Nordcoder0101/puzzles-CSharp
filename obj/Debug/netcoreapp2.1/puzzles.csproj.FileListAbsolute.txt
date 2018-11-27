@@ -1,0 +1,11 @@
+/Users/greg/codingdojo/cSharp/puzzles/bin/Debug/netcoreapp2.1/puzzles.deps.json
+/Users/greg/codingdojo/cSharp/puzzles/bin/Debug/netcoreapp2.1/puzzles.runtimeconfig.json
+/Users/greg/codingdojo/cSharp/puzzles/bin/Debug/netcoreapp2.1/puzzles.runtimeconfig.dev.json
+/Users/greg/codingdojo/cSharp/puzzles/bin/Debug/netcoreapp2.1/puzzles.dll
+/Users/greg/codingdojo/cSharp/puzzles/bin/Debug/netcoreapp2.1/puzzles.pdb
+/Users/greg/codingdojo/cSharp/puzzles/obj/Debug/netcoreapp2.1/puzzles.csprojAssemblyReference.cache
+/Users/greg/codingdojo/cSharp/puzzles/obj/Debug/netcoreapp2.1/puzzles.csproj.CoreCompileInputs.cache
+/Users/greg/codingdojo/cSharp/puzzles/obj/Debug/netcoreapp2.1/puzzles.AssemblyInfoInputs.cache
+/Users/greg/codingdojo/cSharp/puzzles/obj/Debug/netcoreapp2.1/puzzles.AssemblyInfo.cs
+/Users/greg/codingdojo/cSharp/puzzles/obj/Debug/netcoreapp2.1/puzzles.dll
+/Users/greg/codingdojo/cSharp/puzzles/obj/Debug/netcoreapp2.1/puzzles.pdb
